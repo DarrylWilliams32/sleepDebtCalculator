@@ -1,3 +1,4 @@
+//test
 //creates function for returning daily values of sleep
 const getSleepHours = day => {
   switch (day) {
